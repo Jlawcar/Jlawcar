@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jlawcar
+- 👀 I’m interested in bioinformatics
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me jlawcar@gmail.com
